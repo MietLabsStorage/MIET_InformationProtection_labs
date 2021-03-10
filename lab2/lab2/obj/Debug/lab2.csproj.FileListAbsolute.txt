@@ -1,0 +1,6 @@
+C:\Users\maksi\Desktop\InformationProtection\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\maksi\Desktop\InformationProtection\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\maksi\Desktop\InformationProtection\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\maksi\Desktop\InformationProtection\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\InformationProtection\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\maksi\Desktop\InformationProtection\lab2\lab2\obj\Debug\lab2.pdb
